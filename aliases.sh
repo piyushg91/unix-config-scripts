@@ -22,7 +22,7 @@ alias djs='python manage.py runserver'
 
 alias cmf='~/unixcripts/mFile_withFunction.sh'
 
-alias ssd="sudo shutdown now"
+alias ssd="sudo shutdown -r now"
 
 alias hrst="git reset --hard HEAD"
 
