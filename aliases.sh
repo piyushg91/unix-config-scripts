@@ -16,8 +16,6 @@ alias clc='clear'
 
 export PS1='$ '
 
-alias adt='~/SDKs/Android-SDK/eclipse/eclipse &'
-
 alias djs='python manage.py runserver'
 
 alias cmf='~/unixcripts/mFile_withFunction.sh'

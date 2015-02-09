@@ -1,0 +1,10 @@
+[user]
+    name = Piyush Gupta
+    email = piyushg91@gmail.com
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = true
+    pager = true
