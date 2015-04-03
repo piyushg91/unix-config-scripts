@@ -1,6 +1,8 @@
 [user]
     name = Piyush Gupta
     email = piyushg91@gmail.com
+[core]
+    editor=vim
 [color]
     diff = auto
     status = auto

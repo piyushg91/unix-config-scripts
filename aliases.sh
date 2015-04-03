@@ -24,6 +24,8 @@ alias ssd="sudo shutdown -r now"
 
 alias hrst="git reset --hard HEAD"
 
+alias rst='git reset --hard'
+
 #VirtualENV setupt
 export WORKON_HOME=$HOME/envs
 export PROJECT_HOME=$HOME/python_projects
