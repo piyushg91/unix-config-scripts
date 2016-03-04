@@ -6,5 +6,8 @@ set shiftwidth=4
 set softtabstop=4
 set number
 set hlsearch
-"execute pathogen#infect()
+execute pathogen#infect()
 nnoremap <silent> _ :nohl<CR>
+
+:noremap  <MiddleMouse> <nop> 
+:noremap! <MiddleMouse> <nop> 

@@ -26,7 +26,12 @@ alias hrst="git reset --hard HEAD"
 
 alias rst='git reset --hard'
 
+alias open='xdg-open'
+
 #VirtualENV setupt
 export WORKON_HOME=$HOME/envs
 export PROJECT_HOME=$HOME/python_projects
 source /usr/local/bin/virtualenvwrapper.sh
+
+export ANDROID_HOME=~/Android/SDK
+export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
