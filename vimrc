@@ -11,6 +11,7 @@ execute pathogen#infect()
 "Mappings
 nnoremap <silent> _ :nohl<CR>
 nnoremap <space> ci"
+nnoremap <CR> ci'
 :noremap  <MiddleMouse> <nop> 
 :noremap! <MiddleMouse> <nop> 
 
