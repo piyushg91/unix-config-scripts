@@ -17,3 +17,7 @@ nnoremap 1 ci'
 
 "File type specific behaviors
 au FileType gitcommit set tw=72
+au BUfRead,BufNewFile *.launch set filetype=xml
+let mapleader=","
+
+map <Leader>ptst pwitest_<esc>w"_C(self):<CR>pass<esc>

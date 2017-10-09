@@ -4,6 +4,8 @@ alias gff='git diff'
 
 alias cmt='git commit'
 
+alias cmtan='git commit --amend'
+
 alias oln='git log --oneline --decorate'
 
 alias gph='git push -q'
