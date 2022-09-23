@@ -10,9 +10,9 @@ alias oln='git log --oneline --decorate'
 
 alias gph='git push -q'
 
-alias viewalias='vi ~/unixscripts/aliases.sh'
+alias viewalias='vi ~/projects/unix-config-scripts/aliases.sh'
 
-alias srcme='source ~/.bashrc'
+alias srcme='source ~/.bash_profile'
 
 alias clc='clear'
 
